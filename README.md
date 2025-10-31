@@ -1,5 +1,5 @@
-#  Praktikum Jaringan Komputer  
-## Judul 2: Build a Switch and Router Network
+##  Praktikum Jaringan Komputer  
+### Judul 2: Build a Switch and Router Network
 
 ### Topologi Jaringan
 ![Topologi Jaringan](https://github.com/dhinivadilaa/Praktikum-Jaringan-Komputer-/blob/main/Judul%202%20Lab%20-%20Build%20a%20Switch%20and%20Router%20Network/Topologi%20Lab%20-%20Build%20a%20Switch%20and%20Router%20Network.jpg?raw=true)
